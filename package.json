@@ -3,14 +3,9 @@
   "version": "7.8.0",
   "description": "Hooks for building lightweight, fast and extendable datagrids for React",
   "license": "MIT",
-  "homepage": "https://react-table.tanstack.com",
   "repository": {
     "type": "git",
-    "url": "https://github.com/tannerlinsley/react-table"
-  },
-  "funding": {
-    "type": "github",
-    "url": "https://github.com/sponsors/tannerlinsley"
+    "url": "https://github.com/jaredLo/react-table-v7.git"
   },
   "keywords": [
     "react",
